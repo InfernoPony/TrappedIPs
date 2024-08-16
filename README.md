@@ -32,6 +32,9 @@ If a scientist tried to enter your home "for research purposes" without asking f
 ## I'm in this list!
 So you're admitting you tried to scan my server? Then you belong to this list.
 
+## We have an opt-out policy
+In other words, you broke into my house, but left a card saying "Don't want us to come back? Send us an e-mail!" hidden behind the couch...
+
 ## So you won't remove a single IP from this list?
 I might eventually remove some of them, but don't have too much hope.  
 IPs in this list are here because they fell into a trap. There are very few reasons for me to remove an IP from this list, and I won't make a public list...
